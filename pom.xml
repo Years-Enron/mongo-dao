@@ -28,7 +28,7 @@
         <commons-lang3.version>3.9</commons-lang3.version>
         <commons-collections4.version>4.4</commons-collections4.version>
         <commons-text.version>1.8</commons-text.version>
-        <guava.version>28.1-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
         <swagger-annotations.version>1.5.23</swagger-annotations.version>
         <lombok.version>1.18.10</lombok.version>
         <fastjson.version>1.2.70</fastjson.version>
