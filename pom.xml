@@ -34,7 +34,7 @@
         <fastjson.version>1.2.70</fastjson.version>
 
         <commons-io.version>2.6</commons-io.version>
-        <jsoup.version>1.13.1</jsoup.version>
+        <jsoup.version>1.14.2</jsoup.version>
         <commons-math3.version>3.6.1</commons-math3.version>
         <commons-codec.version>1.14</commons-codec.version>
 
