@@ -31,7 +31,7 @@
         <guava.version>28.1-jre</guava.version>
         <swagger-annotations.version>1.5.23</swagger-annotations.version>
         <lombok.version>1.18.10</lombok.version>
-        <fastjson.version>1.2.70</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
 
         <commons-io.version>2.6</commons-io.version>
         <jsoup.version>1.13.1</jsoup.version>
